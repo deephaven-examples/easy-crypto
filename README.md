@@ -67,3 +67,7 @@ The result table includes the following columns:
 # Source and License
 
 This script was built using the [CoinGecko crypto API](https://www.coingecko.com/).  This allows one to track over 7,000 coins such as bitcoin, litecoin, and ethereum from more than 400 exchanges and growing.
+
+# Note
+
+This application was last updated in January of 2022, when Deephaven Community Core version 0.8.0 was latest. Thus, it is only guaranteed to work on that version.
